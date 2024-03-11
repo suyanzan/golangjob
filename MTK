@@ -1,0 +1,46 @@
+工作地點
+新竹科學工業園區篤行一路 2 號 (聯發科總部 V 棟)
+
+團隊產品
+DaVinci Chatbot (達哥) 是一款基於聯發科技 GAI 服務框架 (GAISF, GAI Service Framework) 的生成式 AI 對話機器人助手，為使用者提供全面且詳細的訊息服務。達哥也是一個開放式平台，讓開發者可以開發不同插件，擴充達哥的各種能力
+
+團隊簡介
+聯發科技專注於使用 AI, BigData, Process Automation 技術提升公司各部門團隊生產力，及改善 IC Design Flow
+擁抱產品及數據思維，以數據驅動產品功能之開發決策
+以使用者故事 (user story) 作為開發依據，採用敏捷式開發 (Agile development) 快速迭代產品
+重視團隊成員能力成長及團隊向心力，每月由不同成員定期做軟硬技術分享 (AI / BigData / Process Automation)，進而達成組織目標
+自動化測試部署確保軟體品質及提升工作效率減少時間浪費
+基本條件
+有 Go 語言或類似經驗，熟悉 gRPC 及 RESTful API
+有能力根據設計原則 design principles 及設計模式 design patterns 寫出 clean, maintainable, and performant code
+有建立大型且可擴展分散式系統，能理解熟悉微服務架構，Kubernetes，容器等相關技術
+有使用 Kibana、Loki、Grafana、Tempo、OpenTelemetry 和 Prometheus 等可觀察性、監控、警報、追蹤和日誌記錄工具的經驗。
+能夠指導團隊合作整體設計和程式碼架構，並不斷努力改進它，能夠為團隊編寫風格指南以供遵循。
+五年以上相關軟體開發經驗，資工/電機相關科系畢業
+很多會問，什麼條件才能成為資深軟體工程師，請直接參考這篇文章『如何才有資格稱為資深工程師』
+
+工作內容
+規劃後端微服務架構
+自動化流程部署設計
+線上服務維護與除錯
+團隊技術
+使用 Gitea 進行版本控制及審核
+使用 Jira 及 Confluence 控管專案進度及文件
+使用 Gitea Action 打造自動化部署系統
+使用 Go, Python, Node.JS 語言開發微服務架構
+使用 Restful API, GraphQL 或 gRPC 進行服務溝通
+資料庫使用 SQLite, Postgres 或 MySQL
+雲平台使用 Azure, AWS 或 GCP
+透過 Terraform, Pulumi 管理 Infrastructure
+使用 Grafana + Prometheus + Loki 監控各種服務狀態
+使用 Kubernetes 部署服務
+薪資福利
+年薪百萬起跳 100k/month（依據資歷能力給薪）
+
+年終兩個月(依照到職比例)
+健康檢查 (6500 元)、聚餐補助
+旅遊補助 16000 (每年) 可以買任何產品
+午餐跟晚餐補助 65 元 (分開補助)
+每個月 200 元餐點補助 (7-11, 星巴克購物)
+聯絡方式
+請將履歷夾帶於附件，寄信至 Bo-Yi.Wu@mediatek.com，標題註明『應徵聯發科技後端工程師 - XXX』(其中 XXX 為姓名)， 我們將會與您聯絡
